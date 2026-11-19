@@ -15,13 +15,13 @@ export default function Hero() {
       </div>
 
       <h1 className="relative">
-        <span className="sr-only">FOLKA.</span>
+        <span className="sr-only">Garudev</span>
         <div
           aria-hidden="true"
           className="relative h-[clamp(7rem,27vw,25rem)] w-full"
         >
           <TechText
-            text="FOLKA."
+            text="Garudev"
             fontFamily="Manrope, sans-serif"
             fontWeight={800}
             fontSize={272}
